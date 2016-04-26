@@ -1,0 +1,8 @@
+export(rerefact, correct_alpha, correct_beta, correct_gamma, correct_lambda, correct_psi)
+import(Matrix)
+import(gdata)
+importFrom(psych, tr)
+importFrom(combinat, permn)
+importFrom("methods", "as")
+importFrom("utils", "write.table")
+
